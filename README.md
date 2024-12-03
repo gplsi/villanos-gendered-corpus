@@ -1,5 +1,7 @@
 # VILLANOS Gendered Corpus
 
+[![DOI](https://zenodo.org/badge/897813825.svg)](https://doi.org/10.5281/zenodo.14264920)
+
 The **VILLANOS Gendered Corpus** is a carefully curated dataset designed to analyze gendered language and the dynamics of textual references to violence and gender. The corpus is annotated with the following categories for each text entry:
 
 - **TEXTO**: The primary text content.
